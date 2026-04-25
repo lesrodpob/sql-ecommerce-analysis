@@ -14,3 +14,5 @@ This project analyzes e-commerce sales data using SQL to extract business insigh
 ## 📈 Insights
 - Revenue concentrated in top customers
 - Seasonal sales patterns
+
+Dataset: https://www.kaggle.com/datasets/carrie1/ecommerce-data
